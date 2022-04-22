@@ -1,4 +1,4 @@
-package com.example.example_mod;
+package me.jieningyu.example_mod;
 
 import org.quiltmc.loader.api.ModContainer;
 import org.quiltmc.qsl.base.api.entrypoint.ModInitializer;
